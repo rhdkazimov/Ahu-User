@@ -1,0 +1,11 @@
+.image-section {
+    &-image {
+        background-image: url("../../../../../public/Images/imagesection.jpg");
+        background-repeat: no-repeat;
+        background-position: 50% 33%;
+        background-color: #cfccbd;
+        width: 100%;
+        height: 500px;
+        margin: 30px 0px 100px;
+    }
+}
